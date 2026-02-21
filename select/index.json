@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "きいろいうみ",
+  "base_artist": "チーナ",
+  "createdAt": "2026-02-21T13:21:27.663835Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きいろいうみ",
+      "artist": "チーナ",
+      "has_synced": false,
+      "path": "select/pl_01_きいろいうみ_チーナ.txt"
+    }
+  ]
+}
